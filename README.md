@@ -10,7 +10,7 @@ You should create one R script called run_analysis.R that does the following.
 4. Appropriately labels the data set with descriptive activity names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-## Steps to work on this course project
+## Steps to run the script
 
 1. Save the data source onto your hard drive - it will be in a subdirectory named ```UCI HAR Dataset```.
 2. Save ```run_analysis.R``` into the same directory as ```UCI HAR Dataset``` and set it as your working directory in RStudio.
